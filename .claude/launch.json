@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "ultah", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "5173", "--directory", "E:/websites/ultahjovi"], "port": 5173 }
+  ]
+}
